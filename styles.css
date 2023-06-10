@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+h1{
+	color:#3b99e0;
+	align-text:center
+}
+	
+.summary{
+	display:flex;
+}
